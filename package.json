@@ -1,7 +1,7 @@
 {
-  "name": "autoleap-backend",
+  "name": "node-js-crud-app",
   "version": "1.0.0",
-  "description": "auto leap backend api",
+  "description": "node js crud app",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
@@ -17,7 +17,7 @@
     "url": ""
   },
   "keywords": [
-    "autoleap-backend"
+    "node-js-crud-app"
   ],
   "author": "Mahin Ahmed",
   "license": "ISC",

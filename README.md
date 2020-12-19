@@ -1,4 +1,4 @@
-# auto-leap
+# node-js-crud-app
 
 # after cloning the project 
 
